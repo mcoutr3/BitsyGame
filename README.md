@@ -1,2 +1,0 @@
-# BitsyGame
-For bitsy project
